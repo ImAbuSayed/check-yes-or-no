@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/check-yes-or-no/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Check Yes or No](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/check-yes-or-no/) |
+| **Get License** | [Secure Licensing Rights for Check Yes or No](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/check-yes-or-no/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `58cf91d5d0f70b9b885e13fe1863a6efe3378ef3350148ee13faf8fc6e8e484b` |
 | **Timestamp** | May 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

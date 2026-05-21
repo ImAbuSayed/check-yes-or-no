@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Check Yes or No
+
+This log tracks the cryptographic history and versioning for the song **Check Yes or No** (check-yes-or-no).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-22T04:37:01.271006 | `v1` | `58cf91d5d0f70b9b885e13fe1863a6efe3378ef3350148ee13faf8fc6e8e484b` | `460759281796019de3c016a0cd56db9630a8922f198a7e3a9e920bd1ef486147` | `2026-05-22_check-yes-or-no-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
