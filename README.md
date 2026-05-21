@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/check-yes-or-no/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Check Yes or No](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/check-yes-or-no/) |
+| **Get License** | [Get License For Check Yes or No](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/check-yes-or-no/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Midnight driving, your hand in mine,
+> Shadows dancing on the county line.
+> Got a question burning in the glow,
+> Look in my eyes, check yes or no.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
